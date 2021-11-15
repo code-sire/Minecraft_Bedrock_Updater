@@ -16,6 +16,7 @@ This tool was created to help keep your Bedrock server current.
 ## How to use it?
 1. Download the Repo Zip file.
 2. Extract the Zip to a place of your choosing.
-3. Update "Bedrock_Manager.py" file with your Minecraft Install Location. The script uses "HomeDir" to locate the User's Profile folder. You can use that as a base or put the whole path. If you do use a full path you will need to put an "r" before your quoted path. Example: mc_install_loc = r'C:\Minecraft'
-4. Save your changes
-5. Execute "Run Bedrock Manager.bat" (I would suggest using Windows Task Scheduler and having this run at 1:00 AM local time.)
+3. Update "Bedrock_Manager.py" file with your Minecraft Install Location. The script uses "HomeDir" to locate the User's Profile folder. You can use that as a base or put the whole path. If you do use a full path you will need to put an "r" before your quoted path.
+  - Example: mc_install_loc = r'C:\Minecraft'
+5. Save your changes
+6. Execute "Run Bedrock Manager.bat" (I would suggest using Windows Task Scheduler and having this run at 1:00 AM local time.)
